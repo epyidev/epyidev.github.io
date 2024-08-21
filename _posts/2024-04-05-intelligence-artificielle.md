@@ -22,7 +22,7 @@ Je vous ai généré un rendu pour vous montrer un exemple de avant et après le
 
 En dehors de mon stage, ChatGPT est devenu un outil quotidien indispensable. Voici quelques exemples de son utilisation :
 - Correction de texte : Que ce soit pour corriger des fautes d’orthographe ou de syntaxe, ChatGPT m’aide à améliorer la qualité rédactionnelle de mes documents, ce qui est particulièrement utile pour des tâches comme la rédaction de rapports ou la création de contenu.
-- Apprentissage des langues : J’apprends le japonais en autodidacte, et ChatGPT m’assiste dans cet apprentissage en fournissant des définitions claires, des exemples d’utilisation des mots et des expressions, et même en générant des exercices de compréhension écrite. ChatGPT peut aussi servir d'interface d'échange comme si vous parliez à un véritable profésseur particulier (sauf que là vous ne le payerez pas 50€ de l'heure 😂)
+- Apprentissage des langues : J’apprends le japonais en autodidacte, et ChatGPT m’assiste dans cet apprentissage en fournissant des définitions claires, des exemples d’utilisation des mots et des expressions, et même en générant des exercices de compréhension écrite. ChatGPT peut aussi servir d'interface d'échange comme si vous parliez à un véritable professeur particulier (sauf que là vous ne le payerez pas 50€ de l'heure 😂)
 
 
 ## 4. Maximiser l’utilisation de l’IA pour une meilleure productivité

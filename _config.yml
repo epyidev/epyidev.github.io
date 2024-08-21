@@ -5,8 +5,8 @@ description: "Un blog pour partager mes expériences et mes découvertes !" # Th
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "pierre.lihoreau04@gmail.com"
-twitter_username: "epyiofficiel"
-github_username: "epyidev"
+# twitter_username: "epyiofficiel"
+# github_username: "epyidev"
 linkedin_username: "pierrelihoreau"
 #facebook_username: username
 #flickr_username: username

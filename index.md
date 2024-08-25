@@ -25,11 +25,13 @@ N'hésitez pas à jetter un oeil à mon CV !
 
 <a href="https://i.imgur.com/ypE3ELQ.png" target="_blank">Cliquez ici pour visualiser mon CV</a>
 
+
 ## Qu'allez vous trouver ici ?
 
 - **Articles de blog** : Des analyses, des astuces et des témoignages et tout sur les tendances actuelles
 - **Expériences personnelles** : Des conseils basés sur mes propres expériences.
 - **Et bien plus encore !** 
+
 
 ## Pourquoi ce blog ?
 

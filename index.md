@@ -21,7 +21,8 @@ Vous pouvez me contacter en m'envoyant un mail à l'adresse suivante
 
 Je suis aussi actif [sur ma page LinkedIn](https://www.linkedin.com/in/pierrelihoreau/), vous pouvez donc m'envoyer un message là bas et je répondrais rapidement.
 
-N'hésitez pas à jetter un oeil à mon CV
+N'hésitez pas à jetter un oeil à mon CV !
+
 <a href="https://i.imgur.com/ypE3ELQ.png" target="_blank">Cliquez ici pour visualiser mon CV</a>
 
 ## Ce que vous trouverez ici

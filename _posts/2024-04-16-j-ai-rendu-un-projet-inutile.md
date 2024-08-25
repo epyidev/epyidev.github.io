@@ -6,13 +6,20 @@ La communication, c’est un peu la clé de tout, non ? On nous le dit souvent, 
 
 Durant mon stage, j’ai eu l’opportunité de travailler sur un projet plutôt excitant : la création d’un jingle pour le podcast Com With Me, animé par mon maître de stage, Alexandre Cenis. J’étais super motivé à l’idée de pouvoir laisser libre cours à ma créativité, surtout après qu’Alexandre m’ait dit ces mots magiques : "Soyez créatif".
 
-Ces trois mots étaient comme une carte blanche pour moi. J’ai donc plongé tête la première dans la création, sans vraiment me poser de questions. Après tout, il m’avait dit de faire ce que je voulais, non ? J’ai passé des heures à peaufiner chaque détail, à trouver le bon son, le bon rythme… Bref, j’étais fier de mon travail.
+Ces deux mots étaient comme une carte blanche pour moi. J’ai donc plongé tête la première dans la création, sans vraiment me poser de questions. Après tout, il m’avait dit de faire ce que je voulais, non ? J’ai passé des heures à peaufiner chaque détail, à trouver le bon son, le bon rythme… Bref, j’étais fier de mon travail.
 
 ## 2. Le choc du retour
 
 Le jour du rendu arrive, j’envoie le jingle à Alexandre, un peu nerveux mais surtout excité de voir sa réaction. Et là, c’est la douche froide : "Je ne voyais pas ça comme ça", m’a-t-il dit. Autant dire que ça fait mal. J’étais sous le choc, car tout ce temps passé à créer ce que je pensais être parfait venait de s’évaporer en une phrase. 💔
 
 Mais ce n’était pas tout. Après quelques échanges, on a compris que nous n’étions pas du tout sur la même longueur d’onde. J’ai dû tout recommencer de zéro, en partant cette fois-ci sur des bases bien différentes. Le design du jingle n’avait littéralement rien à voir avec ce que j’avais proposé au départ. C’était comme si tout mon travail avait été fait pour rien.
+
+V1 du jingle
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EL9mOx1cgMw" frameborder="0" allowfullscreen></iframe>
+
+V2 du jingle
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ULkkL1i9EjQ" frameborder="0" allowfullscreen></iframe>
+
 
 ## 3. Les leçons tirées
 

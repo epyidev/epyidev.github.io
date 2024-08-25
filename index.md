@@ -19,8 +19,10 @@ Si vous avez des questions ou si vous souhaitez discuter de projets créatifs, n
 Vous pouvez me contacter en m'envoyant un mail à l'adresse suivante
 **pierre.lihoreau04@gmail.com**
 
-Je suis aussi actif sur ma page LinkedIn, vous pouvez donc m'envoyer un message là bas et je répondrais rapidement.
+Je suis aussi actif [sur ma page LinkedIn](https://www.linkedin.com/in/pierrelihoreau/), vous pouvez donc m'envoyer un message là bas et je répondrais rapidement.
 
+N'hésitez pas à jetter un oeil à mon CV
+![Cliquez ici pour visualiser mon CV](https://i.imgur.com/ypE3ELQ.png)
 
 ## Ce que vous trouverez ici
 

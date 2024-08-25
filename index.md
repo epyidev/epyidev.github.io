@@ -3,7 +3,7 @@
 Je suis ravi de vous accueillir sur mon blog, je partagerai mes expériences, réflexions et conseils sur tout ce qui touche à mon domaine de l'audiovisuel ou autre.
 
 
-## Mon profil
+## Qui suis-je ?
 
 Moi, c'est Pierre Lihoreau, j'ai 19 ans et je suis passionné d'audiovisuel, surtout de post-production. Actuellement étudiant et alternant à Lyon YNOV Campus, je passe mes journées à travailler sur des projets de montage et de création.
 
@@ -14,7 +14,7 @@ En dehors de l'audiovisuel, j'aime pratiquer le développement informatique pour
 Si vous avez des questions ou si vous souhaitez discuter de projets créatifs, n'hésitez pas à me contacter !
 
 
-## Comment me contacter
+## Comment me contacter ?
 
 Vous pouvez me contacter en m'envoyant un mail à l'adresse suivante
 **pierre.lihoreau04@gmail.com**
@@ -25,7 +25,7 @@ N'hésitez pas à jetter un oeil à mon CV !
 
 <a href="https://i.imgur.com/ypE3ELQ.png" target="_blank">Cliquez ici pour visualiser mon CV</a>
 
-## Ce que vous trouverez ici
+## Qu'allez vous trouver ici ?
 
 - **Articles de blog** : Des analyses, des astuces et des témoignages et tout sur les tendances actuelles
 - **Expériences personnelles** : Des conseils basés sur mes propres expériences.

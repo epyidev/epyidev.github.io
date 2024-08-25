@@ -10,7 +10,7 @@ Ces deux mots étaient comme une carte blanche pour moi. J’ai donc plongé tê
 
 ## 2. Le choc du retour
 
-Le jour du rendu arrive, j’envoie le jingle à Alexandre, un peu nerveux mais surtout excité de voir sa réaction. Et là, c’est la douche froide : "Je ne voyais pas ça comme ça", m’a-t-il dit. Autant dire que ça fait mal. J’étais sous le choc, car tout ce temps passé à créer ce que je pensais être parfait venait de s’évaporer en une phrase. 💔
+Le jour du rendu arrive, j’envoie le jingle à Alexandre. Et là, c’est la douche froide : "Je ne voyais pas ça comme ça", m’a-t-il dit. Autant dire que ça fait mal. J’étais sous le choc, car tout ce temps passé à créer ce que je pensais être parfait venait de s’évaporer en une phrase. 💔
 
 Mais ce n’était pas tout. Après quelques échanges, on a compris que nous n’étions pas du tout sur la même longueur d’onde. J’ai dû tout recommencer de zéro, en partant cette fois-ci sur des bases bien différentes. Le design du jingle n’avait littéralement rien à voir avec ce que j’avais proposé au départ. C’était comme si tout mon travail avait été fait pour rien.
 
